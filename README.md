@@ -37,23 +37,24 @@ In addition to collaborations, I love diving into personal projects and explorat
 
 ## Get in Touch
 
-Connect with me on:
+Connect with me and let's share ideas or collaborate:
 
-- [LinkedIn](https://linkedin.com/in/sulujulianto): Professional networking and insights.
-- [Twitter](https://twitter.com/sulujulianto): Short updates and tech discussions.
-- [Facebook](https://facebook.com/sulujulianto): Community and personal updates.
-- [Instagram](https://instagram.com/sulujulianto): Visual stories and experiences.
-- Email: [sulujulianto@gmail.com](mailto:sulujulianto@gmail.com) - Direct communication.
+### Social Media Platforms
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](your-twitter-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook)](your-facebook-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](your-instagram-profile)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sulujulianto@gmail.com)
 
 ### Coding Platforms
 
-Find me on various coding platforms:
+You can also find me on coding platforms:
 
-- [Stack Overflow](your-stackoverflow-profile): Sharing knowledge and seeking solutions.
-- [GitLab](your-gitlab-profile): Collaborative coding and version control.
-- [CodePen](your-codepen-profile): Showcasing front-end development projects.
-- [Dev.to](your-devto-profile): Writing and sharing programming articles.
-- [HackerRank](your-hackerrank-profile): Practicing coding challenges and competitions.
-
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-blue?style=for-the-badge&logo=stackoverflow)](your-stackoverflow-profile)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=for-the-badge&logo=gitlab)](your-gitlab-profile)
+[![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](your-codepen-profile)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Profile-blue?style=for-the-badge&logo=dev-dot-to)](your-devto-profile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](your-hackerrank-profile)
 
 Let's connect, share insights, and code together! 🚀
