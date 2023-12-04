@@ -10,9 +10,9 @@ Hello there, I'm Sulu Julianto! Aspiring to be a Software Engineer, I'm deeply p
 
 Here are some statistics that reflect my activity on GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?sulujulianto=your-sulujulianto&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sulujulianto=your-sulujulianto&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=radical)
 
 ### Ranking
 
