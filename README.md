@@ -22,7 +22,7 @@ Connect with me and let's share ideas or collaborate:
 
 ### Social Media Platforms
 
-### Social Media Platforms
+Let's connect through social media:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sulujulianto)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sulujulianto)
