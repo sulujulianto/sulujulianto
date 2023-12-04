@@ -2,7 +2,9 @@
 
 ## About Me
 
-Hello! I'm Sulu Julianto, a junior programmer enthusiastic about exploring the world of coding. I've been on this thrilling journey for a year, diving deep into various programming languages and technologies. My passion lies in the diverse landscape of coding, and I don't favor one language over another; each has its unique strengths and applications that intrigue me.
+Hey there, I'm Sulu Edward Julianto, a junior programmer passionately delving into the realms of coding and technology for the past year. This exhilarating journey has seen me immerse myself in various programming languages, captivated by the diverse applications and capabilities each language brings to the table. My approach involves an unprejudiced exploration, where the unique strengths of each language contribute to my fascination with the ever-evolving coding landscape.
+
+My pursuit transcends the boundaries of favoritism; instead, I embrace the entirety of the coding spectrum, yearning to understand the nuances and functionalities of different programming languages worldwide. My aspiration? To carve a remarkable career path as a Software Engineer, leveraging this comprehensive understanding of languages to engineer innovative solutions and contribute significantly to the tech industry's evolution.
 
 ## GitHub Activity Overview
 
