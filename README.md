@@ -37,7 +37,10 @@ You can also find me on coding platforms:
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-blue?style=for-the-badge&logo=stackoverflow)](your-stackoverflow-profile)
 - [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=for-the-badge&logo=gitlab)](your-gitlab-profile)
 - [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](your-codepen-profile)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](your-hackerrank-profile
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](your-hackerrank-profile)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-blue?style=for-the-badge&logo=dev-dot-to)](your-devto-profile)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode)](your-leetcode-profile)
+- [![Exercism](https://img.shields.io/badge/Exercism-Profile-blue?style=for-the-badge&logo=exercism)](your-exercism-profile)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](your-kaggle-profile)
 
 Let's connect, share insights, and code together! 🚀
