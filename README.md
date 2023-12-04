@@ -28,7 +28,7 @@ Let's connect through social media:
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sulujulianto)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/sulujulianto)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/sulujulianto)
-- [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sulujulianto@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sulujulianto@outlook.com)
 
 ### Coding Platforms
 
