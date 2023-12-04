@@ -4,26 +4,15 @@
 
 Hello there, I'm Sulu Julianto! Aspiring to be a Software Engineer, I'm deeply passionate about the world of technology. I aspire to craft robust, innovative solutions and contribute positively to the tech community.
 
-## Aspiring Software Engineer
-
-I'm on a journey to become a Software Engineer, dedicating my time to honing my skills and exploring the vast realm of programming languages, frameworks, and technologies. I am committed to continuous learning, building practical projects, and contributing to open-source initiatives.
-
-## Embracing Programming Languages
-
-I believe in the versatility and power of programming languages. I've acquired proficiency in various languages including but not limited to Python, JavaScript, Java, C++, and more. I don't adhere to biases against any particular programming language; each has its strengths and use cases, and I'm enthusiastic about exploring them all.
-
 ## GitHub Activity Overview
 
 ### GitHub Statistics
 
 Here are some statistics that reflect my activity on GitHub:
 
-- **Total Repositories:** [Number of repositories you own or contribute to]
-- **Commits:** [Approximate number of commits you've made]
-- **Pull Requests:** [Total pull requests opened or merged]
-- **Issues:** [Number of issues created or resolved]
-- **Followers:** [Your GitHub followers]
-- **Languages Used:** [List of programming languages you've used in your repositories]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-sulujulianto&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-sulujulianto&layout=compact&theme=radical)
 
 ### Ranking
 
