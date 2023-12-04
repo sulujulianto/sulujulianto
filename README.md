@@ -12,9 +12,9 @@ My curiosity extends beyond favoritism, as I aim to comprehend the nuances and f
 
 Here are some statistics that reflect my activity on GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=light)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=light)
 
 ## GitHub Projects & Contributions
 
