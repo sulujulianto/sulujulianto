@@ -14,9 +14,9 @@ Here are some statistics that reflect my activity on GitHub:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=radical)
 
-### Ranking
+### GitHub Ranking
 
-My contributions and activity on GitHub have positioned me within the top [Your GitHub ranking] of users globally.
+![GitHub Ranking](https://github-readme-stats.vercel.app/api/rank?username=sulujulianto&theme=radical)
 
 ## GitHub Projects & Contributions
 
