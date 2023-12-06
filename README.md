@@ -34,7 +34,7 @@ Let's connect through social media:
 
 You can also find me on coding platforms:
 
-- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-blue?style=for-the-badge&logo=stackoverflow)](your-stackoverflow-profile)
+- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-blue?style=for-the-badge&logo=stackoverflow)][(your-stackoverflow-profile)](https://stackoverflow.com/users/17795299/sulu-julianto?tab=profile)
 - [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=for-the-badge&logo=gitlab)](your-gitlab-profile)
 - [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](your-codepen-profile)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](your-hackerrank-profile)
