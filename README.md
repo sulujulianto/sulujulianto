@@ -36,7 +36,7 @@ You can also find me on coding platforms:
 
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/17795299/sulu-julianto?tab=profile)
 - [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/sulujulianto)
-- [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](your-codepen-profile)
+- [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](https://codepen.io/SuluJulianto)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](your-hackerrank-profile)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-blue?style=for-the-badge&logo=dev-dot-to)](your-devto-profile)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode)](your-leetcode-profile)
