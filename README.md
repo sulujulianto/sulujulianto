@@ -38,7 +38,7 @@ You can also find me on coding platforms:
 - [![GitLab](https://img.shields.io/badge/GitLab-Profile-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/sulujulianto)
 - [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](https://codepen.io/SuluJulianto)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/sulujulianto)
-- [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-blue?style=for-the-badge&logo=codewars)]((https://www.codewars.com/users/SuluJulianto)
+- [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-blue?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/SuluJulianto)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode)](your-leetcode-profile)
 - [![Exercism](https://img.shields.io/badge/Exercism-Profile-blue?style=for-the-badge&logo=exercism)](your-exercism-profile)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](your-kaggle-profile)
