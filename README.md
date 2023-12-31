@@ -25,9 +25,9 @@ Connect with me and let's share ideas or collaborate:
 Let's connect through social media:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sulujulianto)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sulujulianto)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sulucodes)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/sulujulianto)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/sulujulianto)
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/sulucodes)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sulujulianto@outlook.com)
 
 ### Coding Platforms
