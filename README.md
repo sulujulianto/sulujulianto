@@ -39,5 +39,6 @@ You can also find me on coding platforms:
 - [![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?style=for-the-badge&logo=codepen)](https://codepen.io/SuluJulianto)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/sulujulianto)
 - [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-blue?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/SuluJulianto)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/sulujulianto/)
 
 Let's connect, share insights, and code together! 🚀
