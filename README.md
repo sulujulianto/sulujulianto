@@ -41,4 +41,4 @@ You can also find me on coding platforms:
 - [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-blue?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/SuluJulianto)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/sulujulianto/)
 
-Let's connect, share insights, and code together! 🚀
+Let's connect, share insights, and code together! 
