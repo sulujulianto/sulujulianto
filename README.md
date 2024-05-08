@@ -23,4 +23,4 @@ Here are some statistics that reflect my activity on GitHub:
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/sulucodes)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sulucodes@gmail.com)
 
-Let's connect, share insights, and code together! 
+Let's connect, share insights, and code together! 🚀
