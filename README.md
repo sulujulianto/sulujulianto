@@ -3,7 +3,7 @@
   <!-- Quick intro -->
   <h2>👋 Hi, I'm Sulu Edward Julianto</h2>
 
-  🤦‍♂️ Software developer&ensp;•&ensp;👨‍💻 Sysadmin&ensp;•&ensp;👷‍♂️ Computer Builder
+  🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast
   
   **📝&ensp;Please check out my [portfolio](https://sulujulianto.github.io)!**<br><br>
 
