@@ -1,7 +1,7 @@
 <span align="center">
 
   <!-- Quick intro -->
-  <h1 align="middle">/Sulu Edward Julianto/</h1>
+  <h1 align="middle">Sulu Edward Julianto</h1>
 
   🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast
 
