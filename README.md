@@ -1,7 +1,7 @@
 <span align="center">
 
   <!-- Quick intro -->
-  <h2>👋 Hi, I'm Sulu Edward Julianto</h2>
+  <h1>👋 Hi, I'm Sulu Edward Julianto</h1>
 
   🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast
   
