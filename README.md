@@ -30,19 +30,7 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sulujulianto&theme=aura_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sulujulianto github stats" />
-</a>
 
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
-
-  
-  
-  
   <!-- Visitor count -->
   <br>Visitors<br><br>
   <img src="https://profile-counter.glitch.me/sulujulianto/count.svg">
