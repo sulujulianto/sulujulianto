@@ -25,7 +25,6 @@
 
   <!-- GitHub Stats -->
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark)
   <a href="https://github.com/sulujulianto/github-readme-stats">
     <img align="center" alt="Sulu Julianto's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Sulu%20Julianto%27s%20GitHub%20Stats&theme=tokyonight" />
   </a>
