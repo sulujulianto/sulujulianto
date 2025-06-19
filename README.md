@@ -25,8 +25,9 @@
 
   <!-- GitHub Stats -->
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sulujulianto&theme=aura_dark)
+  <a href="https://github.com/sulujulianto/github-readme-stats">
+    <img align="center" alt="sulujulianto GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hazmi35&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Hazmi35%27s%20GitHub%20Stats&theme=tokyonight" />
+</a>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark)
 
   <!-- Visitor count -->
