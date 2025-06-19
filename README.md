@@ -3,7 +3,7 @@
   <!-- Quick intro -->
   <h1 align="middle">Sulu Edward Julianto</h1>
 
-  🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast
+  <h2 align="middle">🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast</h2>
 
   <p align="middle">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
   
-  **📝&ensp;Please check out my [portfolio](https://sulujulianto.github.io)!**<br><br>
+  <h3 align="middle">**📝&ensp;Please check out my [portfolio](https://sulujulianto.github.io)!**</h3><br><br>
 
   Hiya there, Sulu here 👋. I love to create something funky and explore the software engineering world.
 
