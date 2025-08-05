@@ -62,7 +62,7 @@
 </table>
 
 
-============================================================================================
+========================================================================================
 
 <table>
 <tr>
@@ -116,8 +116,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SuluJulianto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Sulu's GitHub Trophies" width="100%"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuluJulianto&theme=tokyonight&hide_border=true" alt="Sulu's Contribution Streak" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/SuluJulianto/SuluJulianto/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
