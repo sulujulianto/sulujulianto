@@ -1,59 +1,123 @@
-<span align="center">
-
-  <!-- Quick intro -->
-  <h1 align="middle">Sulu Edward Julianto</h1>
-
-  <h3 align="middle">🤦‍♂️ Software Engineer&ensp;•&ensp;👨‍💻 Backend Developer&ensp;•&ensp;👷‍♂️ Computer Enthusiast</h3>
-
-  <p align="middle">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<p align="center">
+  <img src="YOUR_COOL_BANNER_LINK.gif" alt="Sulu Julianto's GitHub Banner">
 </p>
-  
-  <h3 align="middle">📝&ensp;Please check out my [portfolio](https://sulujulianto.github.io)!</h3><br><br>
 
-  Hiya there, Sulu here 👋. I love to create something funky and explore the software engineering world.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hiya+there!+I'm+Sulu+Julianto.;Software+Engineer;Backend-Focused+Developer;Computer+Enthusiast" alt="Typing SVG"></a>
+</p>
 
-  I brand myself as a software engineer, but I'm more proficient back-end development. Feel free to contact me if you have interesting project offerings.
+<p align="center">
+  💻 A <strong>Software Engineer</strong> who loves to create funky things and explore the digital world. <br>
+  🚀 Proficient in <strong>backend development</strong>, with a passion for building robust and scalable systems. <br>
+  🌐 Always open to interesting project offerings and collaborations. <br>
+  📝 Feel free to check out my <strong><a href="https://sulujulianto.github.io">Portfolio Website</a></strong>!
+</p>
 
-  <!-- GitHub Stats -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark)
-  <a href="https://github.com/sulujulianto/github-readme-stats">
-    <img align="center" alt="Sulu Julianto's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Sulu%20Julianto%27s%20GitHub%20Stats&theme=tokyonight" />
+<p align="center">
+  <strong>Let's Have A Chat, Shall We?</strong><br>
+  <a href="https://www.linkedin.com/in/sulujulianto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="mailto:sulucodes@gmail.com?subject=[DEV]%20Project%20Inquiry" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a> &nbsp;
+   <a href="https://twitter.com/sulucodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a> &nbsp;
+   <a href="https://www.facebook.com/sulujulianto" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
-  <!-- Visitor count -->
-  <br>Visitors<br><br>
-  <img src="https://profile-counter.glitch.me/sulujulianto/count.svg">
-
-  ## Let's Have A Chat, Shall We?
-
-Although the fastest way to contact me is by directly calling me or messaging me through WhatsApp, you can contact me by using one of these links.
-
-<p>
-    <a href="mailto:sulucodes@gmail.com?subject=[DEV]" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/sulucodes" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://github.com/sulujulianto" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/sulujulianto/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/sulujulianto" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
 </p>
-</span>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuluJulianto/SuluJulianto/main/assets/divider.gif" width="100%">
+</p>
 
 
+## ⚔️ My Digital Arsenal
+
+<table width="100%">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,html,css" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,go,php" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+============================================================================================
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">プロジェクト名: Your Name in Japanese</h3>
+<div align="center">
+<p>A fun web tool that converts your name into its Katakana representation, complete with a virtual Hanko (seal).</p>
+<p>
+  <a href="https://github.com/SuluJulianto/your-name-in-japanese" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://sulujulianto.github.io/your-name-in-japanese/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+<p><strong>Tech Stack:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project: Indonesian Capital Finder</h3>
+<div align="center">
+<p>A simple and efficient utility to find the capital city of any province in Indonesia. Built with vanilla JavaScript.</p>
+<p>
+  <a href="https://github.com/SuluJulianto/Pencari-Ibu-Kota-Provinsi-Indonesia" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://sulujulianto.github.io/Pencari-Ibu-Kota-Provinsi-Indonesia/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+<p><strong>Tech Stack:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+## 📈 My Developer DNA
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark" width="100%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sulu's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Sulu's Top Languages" width="49%"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuluJulianto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Sulu's GitHub Trophies" width="100%"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuluJulianto&theme=tokyonight&hide_border=true" alt="Sulu's Contribution Streak" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SuluJulianto/SuluJulianto/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+</p>
