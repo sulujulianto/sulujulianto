@@ -64,47 +64,6 @@
 
 ========================================================================================
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">プロジェクト名: Your Name in Japanese</h3>
-<div align="center">
-<p>A fun web tool that converts your name into its Katakana representation, complete with a virtual Hanko (seal).</p>
-<p>
-  <a href="https://github.com/SuluJulianto/your-name-in-japanese" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://sulujulianto.github.io/your-name-in-japanese/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Project: Indonesian Capital Finder</h3>
-<div align="center">
-<p>A simple and efficient utility to find the capital city of any province in Indonesia. Built with vanilla JavaScript.</p>
-<p>
-  <a href="https://github.com/SuluJulianto/Pencari-Ibu-Kota-Provinsi-Indonesia" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://sulujulianto.github.io/Pencari-Ibu-Kota-Provinsi-Indonesia/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-</div>
-</td>
-</tr>
-</table>
-
 ## 📈 My Developer DNA
 
 <p align="center">
