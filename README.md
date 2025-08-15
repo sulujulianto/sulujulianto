@@ -4,7 +4,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+Developer;Building+Scalable+%26+Robust+Systems;Always+Learning+New+Technologies;Open+to+Exciting+Collaborations" alt="Typing SVG">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Developer;Building+Scalable+and+Robust+Systems;Passionate+about+Clean+Architecture;Open+to+Collaborations+and+New+Opportunities"
+      alt="Typing SVG Banner"
+    />
   </a>
 </p>
 
