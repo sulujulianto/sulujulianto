@@ -95,11 +95,11 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🔭 Building scalable backend systems and APIs
-- 🌱 Exploring cloud technologies and microservices architecture
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about backend development, system design, or software architecture
-- ⚡ Fun fact: I love solving complex problems with elegant code solutions
+- Building scalable backend systems and APIs
+- Exploring cloud technologies and microservices architecture
+- Looking to collaborate on open source projects
+- Ask me about backend development, system design, or software architecture
+- Fun fact: I love solving complex problems with elegant code solutions
 
 ---
 
