@@ -5,17 +5,17 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Developer;Building+Scalable+and+Robust+Systems;Passionate+about+Clean+Architecture;Open+to+Collaborations+and+New+Opportunities"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Developer;Crafting+Scalable+Systems;Clean+Code+Advocate;Always+Learning+New+Technologies"
       alt="Typing SVG Banner"
     />
   </a>
 </p>
 
 <p align="center">
-  💻 <strong>Software Engineer</strong> passionate about creating innovative solutions<br>
-  🚀 Specialized in <strong>backend development</strong> with expertise in scalable architectures<br>
-  🌐 Open to collaboration and exciting project opportunities<br>
-  📝 Explore my work at <strong><a href="https://sulujulianto.github.io">sulujulianto.github.io</a></strong>
+  💻 <strong>Software Engineer</strong> passionate about building innovative solutions<br>
+  🚀 Specialized in <strong>backend development</strong> and system architecture<br>
+  🌐 Open to exciting collaborations and new challenges<br>
+  📝 Discover my projects at <strong><a href="https://sulujulianto.github.io">sulujulianto.github.io</a></strong>
 </p>
 
 ---
