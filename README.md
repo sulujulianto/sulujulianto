@@ -106,7 +106,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=tokyonight" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
