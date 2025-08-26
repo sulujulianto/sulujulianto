@@ -74,16 +74,26 @@
 
 <div align="center">
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark" width="100%"/>
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" width="48%"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="80%"/>
 
 </div>
 
