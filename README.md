@@ -67,11 +67,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🎌 Interests & Hobbies
-![Anime](https://img.shields.io/badge/Anime-FF6B6B?style=for-the-badge&logo=crunchyroll&logoColor=white)
-![Japanese](https://img.shields.io/badge/Japanese_Culture-E60012?style=for-the-badge&logo=japan&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-0078D4?style=for-the-badge&logo=xbox&logoColor=white)
-
 </div>
 
 ---
