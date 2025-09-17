@@ -19,9 +19,11 @@
   📝 Discover my projects at <strong><a href="https://sulujulianto.github.io">sulujulianto.github.io</a></strong>
 </p>
 
+</div>
+
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/sulujulianto" target="_blank">
@@ -37,8 +39,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -71,6 +71,17 @@
 
 ---
 
+## 🚀 What I'm Currently Working On
+
+- 🔧 Building scalable backend systems and APIs
+- ☁️ Exploring cloud technologies and microservices architecture
+- 🤝 Looking to collaborate on open source projects
+- 💡 Ask me about backend development, system design, or software architecture
+- ✨ Fun fact: I love solving complex problems with elegant code solutions
+- 🎌 Enjoying anime and Japanese culture in my free time
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -78,48 +89,41 @@
 <!-- Profile Details -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulujulianto&theme=aura_dark" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<!-- GitHub Stats and Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" width="48%"/>
+</p>
 
 <br/>
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
-<br/>
+<br/><br/>
 
 <!-- Most Commit Language & Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sulujulianto&theme=aura_dark" alt="Most Commit Language" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sulujulianto&theme=aura_dark" alt="Stats" width="48%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sulujulianto&theme=aura_dark" alt="Most Commit Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sulujulianto&theme=aura_dark" alt="Stats" width="48%"/>
+</p>
 
 <br/>
 
 <!-- Repos per Language & Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark" alt="Repos per Language" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sulujulianto&theme=aura_dark&utcOffset=7" alt="Productive Time" width="48%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sulujulianto&theme=aura_dark&utcOffset=7" alt="Productive Time" width="48%"/>
+</p>
 
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=discord&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" width="80%"/>
 
 </div>
-
----
-
-## 🚀 What I'm Currently Working On
-
-- Building scalable backend systems and APIs
-- Exploring cloud technologies and microservices architecture
-- Looking to collaborate on open source projects
-- Ask me about backend development, system design, or software architecture
-- Fun fact: I love solving complex problems with elegant code solutions
-- 🎌 Enjoying anime and Japanese culture in my free time
 
 ---
 
