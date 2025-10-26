@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Sulu Edward Julianto
+# 👋 Hi, I'm Sulu Edward Julianto.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
