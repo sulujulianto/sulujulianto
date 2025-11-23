@@ -15,7 +15,7 @@
   💻 <strong>Software Engineer</strong> passionate about building innovative solutions<br>
   🚀 Specialized in <strong>backend development</strong> and system architecture<br>
   🌐 Open to exciting collaborations and new challenges<br>
-  🎌 <strong>Japanese culture and anime enthusiast</strong><br>
+  🎌 <strong>Japanese culture and anime/visual novel enthusiast</strong><br>
   📝 Discover my projects at <strong><a href="https://sulujulianto.github.io">sulujulianto.github.io</a></strong>
 </p>
 
@@ -146,3 +146,4 @@
 **Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
 
 </div>
+
