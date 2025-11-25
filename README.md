@@ -78,7 +78,7 @@
 - 🤝 Looking to collaborate on open source projects
 - 💡 Ask me about backend development, system design, or software architecture
 - ✨ Fun fact: I love solving complex problems with elegant code solutions
-- 🎌 Enjoying anime and Japanese culture in my free time
+- 🎌 Enjoying anime and visual novel in my free time
 
 ---
 
