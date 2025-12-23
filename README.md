@@ -14,7 +14,7 @@
 <p align="center">
   💻 <strong>Software Engineer</strong> passionate about building innovative solutions<br>
   🚀 Specialized in <strong>backend development</strong> and system architecture<br>
-  🌐 Open to exciting collaborations and new challenges<br>
+  🌐 Open to exciting collaborations and new opportunities<br>
   🎌 <strong>Japanese culture and anime/visual novel enthusiast</strong><br>
   📝 Discover my projects at <strong><a href="https://sulujulianto.github.io">sulujulianto.github.io</a></strong>
 </p>
@@ -47,24 +47,29 @@
 <div align="center">
 
 ### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚡ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### 📋 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🛢️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -73,12 +78,12 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🔧 Building scalable backend systems and APIs
+- 🔧 Building scalable backend systems and RESTful APIs
 - ☁️ Exploring cloud technologies and microservices architecture
-- 🤝 Looking to collaborate on open source projects
+- 🤝 Open to collaborating on open source projects
 - 💡 Ask me about backend development, system design, or software architecture
-- ✨ Fun fact: I love solving complex problems with elegant code solutions
-- 🎌 Enjoying anime and visual novel in my free time
+- ✨ Passionate about solving complex problems with elegant solutions
+- 🎌 Enjoying anime and visual novels in my free time
 
 ---
 
@@ -100,7 +105,7 @@
 <br/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 <br/><br/>
 
@@ -117,11 +122,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulujulianto&theme=aura_dark" alt="Repos per Language" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sulujulianto&theme=aura_dark&utcOffset=7" alt="Productive Time" width="48%"/>
 </p>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sulujulianto&theme=discord&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" width="80%"/>
 
 </div>
 
@@ -146,3 +146,4 @@
 **Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
 
 </div>
+
