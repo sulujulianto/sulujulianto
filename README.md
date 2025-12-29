@@ -98,14 +98,14 @@
 
 <!-- GitHub Stats and Top Languages - FIXED -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 <br/>
 
 <!-- GitHub Streak - FIXED -->
-<img src="https://streak-stats.demolab.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 <br/><br/>
 
