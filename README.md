@@ -96,16 +96,16 @@
 
 <br/><br/>
 
-<!-- GitHub Stats and Top Languages - FIXED -->
+<!-- GitHub Stats and Top Languages - MULTIPLE FALLBACK OPTIONS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 <br/>
 
-<!-- GitHub Streak - FIXED -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<!-- GitHub Streak - MULTIPLE OPTIONS -->
+<img src="https://streak-stats.demolab.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 <br/><br/>
 
