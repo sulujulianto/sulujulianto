@@ -62,20 +62,20 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sulu's GitHub Stats" />
+  <a href="https://github.com/sulujulianto">
+    <img src="https://github-readme-stats-omega-five.vercel.app/api?username=sulujulianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sulu's GitHub Stats" />
   </a>
   
   <br/><br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/sulujulianto">
+    <img src="https://github-readme-stats-omega-five.vercel.app/api/top-langs/?username=sulujulianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 
   <br/><br/>
   
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/sulujulianto">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sulujulianto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
