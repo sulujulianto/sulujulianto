@@ -36,7 +36,7 @@ const developer = {
         backend: ["PHP/Laravel", "Node.js/Express", "RESTful APIs"],
         frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
         database: ["PostgreSQL", "MySQL", "MongoDB"],
-        languages: ["JavaScript", "PHP", "Python", "Go", "C", "C++"]
+        languages: ["JavaScript", "PHP", "Python", "Go", "C++"]
     },
     
     currentlyExploring: ["TypeScript", "System Design", "AI/ML", "Golang"],
@@ -112,6 +112,8 @@ const developer = {
 ---
 
 ## 🎯 Beyond Code
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 When I'm not coding, I enjoy:
 - Watching anime (currently into SAO, Fafner, and Re:Zero)
