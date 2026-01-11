@@ -24,47 +24,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer based in Jakarta, Indonesia, specializing in building scalable web applications with PHP and JavaScript ecosystems. My goal is to grow from a full-stack developer into a well-rounded software developer and eventually a software engineer with deep technical expertise.
+I'm a full-stack developer based in Jakarta, Indonesia, specializing in building scalable web applications with PHP and JavaScript ecosystems. I combine strong fundamentals in backend architecture with modern frontend development, while actively exploring emerging technologies like AI and system programming.
 
 ```javascript
 const developer = {
     name: "Sulu Edward Julianto",
     location: "Jakarta, Indonesia 🇮🇩",
-    title: "Full-Stack Developer",
+    role: "Full-Stack Developer",
     
-    expertise: {
-        backend: {
-            php: ["Laravel", "Native PHP"],
-            javascript: ["Node.js", "Express.js"],
-            database: ["PostgreSQL", "MySQL", "MongoDB"]
-        },
-        frontend: {
-            frameworks: ["React", "Next.js", "Vue.js"],
-            styling: ["TailwindCSS", "CSS3", "Responsive Design"]
-        },
-        languages: ["JavaScript", "PHP", "Python", "Go", "C++"]
+    coreCompetencies: {
+        backend: ["PHP/Laravel", "Node.js/Express", "RESTful APIs"],
+        frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
+        database: ["PostgreSQL", "MySQL", "MongoDB"],
+        languages: ["JavaScript", "PHP", "Python", "Go", "C", "C++"]
     },
     
-    currently: {
-        learning: ["TypeScript", "System Design", "Golang"],
-        exploring: ["AI & Machine Learning", "Data Engineering", "Cloud Architecture"],
-        reading: ["Clean Code", "System Design Patterns", "Microservices Architecture"]
-    },
+    currentlyExploring: ["TypeScript", "System Design", "AI/ML", "Golang"],
     
-    careerGoals: "Building scalable applications → Contributing to impactful open source → Growing into Software Engineering role",
+    mindset: ["Clean Code", "Test-Driven Development", "Continuous Learning"],
     
-    workingStyle: ["Clean Code Advocate", "Test-Driven Development", "Agile Mindset"],
-    availability: "Open to collaboration and interesting projects"
+    lookingFor: "Opportunities to build impactful products and contribute to meaningful projects"
 };
 ```
-
-### What I'm Working With
-- 🌐 **PHP Development:** Building robust backend systems with Laravel and native PHP
-- ⚡ **JavaScript Full-Stack:** Modern web applications with Node.js, React, Next.js, and Vue.js
-- 🐹 **Golang:** Learning and exploring Go for high-performance backend services
-- 🗄️ **Database Management:** PostgreSQL, MySQL, and MongoDB for diverse data storage needs
-- 🤖 **AI & Data:** Exploring machine learning and data engineering with Python
-- 🐧 **System Programming:** Interested in Linux, system architecture, and performance optimization
 
 ---
 
