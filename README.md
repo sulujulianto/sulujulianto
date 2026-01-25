@@ -132,6 +132,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 **LinkedIn:** [linkedin.com/in/sulujulianto](https://www.linkedin.com/in/sulujulianto/)  
 **Twitter:** [@sulucodes](https://twitter.com/sulucodes)  
 **Portfolio:** [sulujulianto.github.io](https://sulujulianto.github.io)
+**Blog:** [sulujulianto.github.io/blog](https://sulujulianto.github.io/blog)
 
 ---
 
