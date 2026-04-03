@@ -101,13 +101,13 @@ const developer = {
 
 ## 💡 Current Focus
 
-- 🔨 Building scalable web applications with PHP (Laravel), JavaScript (Node.js, React, Next.js)
-- 🐹 Learning Golang for high-performance backend development
-- 🧠 Exploring AI/ML applications and data engineering with Python
-- 🗄️ Working with both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases
-- 🐧 Learning more about Linux systems and system-level programming
-- 🤝 Looking to contribute more to open source projects
-- 📈 Improving system design, clean architecture, and software engineering best practices
+- Building scalable web applications with PHP (Laravel), JavaScript (Node.js, React, Next.js)
+- Learning Golang for high-performance backend development
+- Exploring AI/ML applications and data engineering with Python
+- Working with both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases
+- Learning more about Linux systems and system-level programming
+- Looking to contribute more to open source projects
+- Improving system design, clean architecture, and software engineering best practices
 
 ---
 
