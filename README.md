@@ -33,13 +33,13 @@ const developer = {
     role: "Full-Stack Developer",
     
     coreCompetencies: {
-        backend: ["PHP/Laravel", "Node.js/Express", "RESTful APIs"],
+        backend: ["PHP/Laravel", "Node.js/Express", "Python/FastAPI", "RESTful APIs"],
         frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
         database: ["PostgreSQL", "MySQL", "MongoDB"],
-        languages: ["JavaScript", "PHP", "Python", "Go", "C++"]
+        languages: ["JavaScript", "PHP", "Python"],
     },
     
-    currentlyExploring: ["TypeScript", "System Design", "AI/ML", "Golang"],
+    currentlyExploring: ["C/C++", "TypeScript", "System Design", "AI/ML", "Golang"],
     
     mindset: ["Clean Code", "Test-Driven Development", "Continuous Learning"],
     
